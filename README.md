@@ -17,8 +17,12 @@ Steps to Follow:
 * ```docker run -d -P --link  selenium-hub:hub selenium/node-firefox-debug```
 * double check by checking localhost:4545 to see selenium hub running
 * download vnc viewer to view the tests being executed
+* create a sample robot framework or any language test (example below is for robot framework)
+
 
 ![Docker Robot Framework Test](https://github.com/pradeepcsu/Docker_Selenium/blob/master/Docker_Test_Screenshot.png)
+
+* After executing test, below is the test result
 
 ![Results](https://github.com/pradeepcsu/Docker_Selenium/blob/master/Robot_Test_Screenshot.png)
 
