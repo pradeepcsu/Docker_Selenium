@@ -15,7 +15,9 @@ Steps to Follow:
 * ```docker run -d -p 4545:4444 --name selenium-hub selenium/hub```
 * ```docker run -d -P --link  selenium-hub:hub selenium/node-chrome-debug```
 * ```docker run -d -P --link  selenium-hub:hub selenium/node-firefox-debug```
-*
+* double check by checking localhost:4545 to see selenium hub running
+* download vnc viewer to view the tests being executed
+* 
 
 
 
