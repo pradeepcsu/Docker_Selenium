@@ -9,4 +9,8 @@ Install docker for windows/mac
 4.pull selenium node-firefox-debug ```docker pull selenium/node-firefox-debug```
 5.use following command to check all the pulled images ```docker images``` 
 
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
 
