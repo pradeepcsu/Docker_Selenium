@@ -12,10 +12,10 @@ Steps to Follow:
 * to see already running images ```docker ps -a```
 * to remove specific container ``` docker rm containerid```
 * start running selenium hub and nodes
-* '''docker run -d -p 4545:4444 —name selenium-hub selenium/hub
+* ```docker run -d -p 4545:4444 —name selenium-hub selenium/hub
 
 docker run -d -P —link  selenium-hub:hub selenium/node-chrome-debug
 
-docker run -d -P —link  selenium-hub:hub selenium/node-firefox-debug'''
+docker run -d -P —link  selenium-hub:hub selenium/node-firefox-debug```
 
 
