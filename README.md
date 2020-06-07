@@ -9,5 +9,6 @@ Steps to Follow:
 * pull selenium node-chrome-debug ```docker pull selenium/node-chrome-debug```
 * pull selenium node-firefox-debug ```docker pull selenium/node-firefox-debug```
 * use following command to check all the pulled images ```docker images``` 
+* to see already running images ```docker ps -a```
 
 
