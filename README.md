@@ -18,7 +18,9 @@ Steps to Follow:
 * double check by checking localhost:4545 to see selenium hub running
 * download vnc viewer to view the tests being executed
 
-![Results Screenshot](https://github.com/pradeepcsu/Docker_Selenium/blob/master/Robot_Test_Screenshot.png)
+![Docker Robot Framework Test](https://github.com/pradeepcsu/Docker_Selenium/blob/master/Docker_Test_Screenshot.png)
+
+![Results](https://github.com/pradeepcsu/Docker_Selenium/blob/master/Robot_Test_Screenshot.png)
 
 
 
